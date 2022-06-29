@@ -20,7 +20,7 @@
 
     <actions>
         <!-- JONE的插件分组 -->
-        <group id="JONE" text="JONE" description="JONE插件">
+        <group id="Joyone" text="Joyone" description="Joyone插件">
             <add-to-group group-id="MainMenu" anchor="last"/>
             <action id="HarrisonPopupMsg" class="org.harrison.idea.plugin.action.PopupMessageAction"
                     text="Action Basics Plugin: Pop Dialog Action" description="action example"
